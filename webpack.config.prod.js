@@ -16,7 +16,7 @@ module.exports = {
   resolve: {
     extensions: ['.js'],
     alias: {
-      'react-tabtab/lib': path.resolve(__dirname, 'src/')
+      'alpaca-react-tabtab/lib': path.resolve(__dirname, 'src/')
     }
   },
   externals: {
