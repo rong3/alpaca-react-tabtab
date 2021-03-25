@@ -19,7 +19,7 @@ module.exports = {
   resolve: {
     extensions: ['.js'],
     alias: {
-      'react-tabtab/lib': path.resolve(__dirname, 'src/')
+      'alpaca-react-tabtab/lib': path.resolve(__dirname, 'src/')
     }
   },
   plugins: [
@@ -33,7 +33,7 @@ module.exports = {
     new HtmlWebpackPlugin({
       inject: false,
       template: 'docs/index.ejs',
-      title: 'react-tabtab'
+      title: 'alpaca-react-tabtab'
     })
   ],
   module: {
