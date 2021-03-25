@@ -1,5 +1,5 @@
 {
-  "name": "react-tabtab",
+  "name": "alpaca-react-tabtab",
   "version": "2.0.1",
   "description": "A mobile support, draggable, editable and api based Tab for ReactJS",
   "main": "lib/",
