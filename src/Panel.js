@@ -26,9 +26,7 @@ export default class PanelComponent extends React.PureComponent<Props> {
              aria-labelledby={`react-tabtab-${index}`}
              aria-hidden={false}
              active={active}>
-        {active ?
-          this.props.children
-        : null}
+           this.props.children
       </Panel>
     )
   }
