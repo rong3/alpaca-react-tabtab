@@ -1,6 +1,6 @@
 {
   "name": "react-tabtab",
-  "version": "rong3/react-tabtab",
+  "version": "master",
   "description": "A mobile support, draggable, editable and api based Tab for ReactJS",
   "main": "lib/",
   "scripts": {
